@@ -4,7 +4,9 @@ A fun game about smacking people into oblivion with different unique abilities, 
 || Credits ||
 
 All Building by @Cainz
+
 All Circuits by @JazSe
+
 Game Art by @CoopDog-365
 Beta Testing by @VrBat21
 
